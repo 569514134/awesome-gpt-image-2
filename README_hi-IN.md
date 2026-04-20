@@ -1,6 +1,6 @@
 
 <a href="https://youmind.com/hi-IN/gpt-image-2-prompts">
-  <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og.png" alt="GPT Image 2 Prompts" width="100%" />
+  <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
 </a>
 
 > 💡 🍌 Also check out our **Nano Banana Pro** Prompts Collection — Google's flagship model with 10000+ curated prompts 👉 [awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
@@ -141,7 +141,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **176** |
 | ⭐ विशेष | **0** |
-| 🔄 अंतिम अपडेट | **सोमवार, 20 अप्रैल 2026 को 1:04:25 pm UTC बजे** |
+| 🔄 अंतिम अपडेट | **सोमवार, 20 अप्रैल 2026 को 1:10:06 pm UTC बजे** |
 
 </div>
 
@@ -6436,6 +6436,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-04-20T13:04:25.397Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-04-20T13:10:06.733Z</sub>
 
 </div>

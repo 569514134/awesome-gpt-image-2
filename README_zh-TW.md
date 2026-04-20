@@ -1,6 +1,6 @@
 
 <a href="https://youmind.com/zh-TW/gpt-image-2-prompts">
-  <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og.png" alt="GPT Image 2 Prompts" width="100%" />
+  <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
 </a>
 
 > 💡 🍌 也看看我們的 **Nano Banana Pro** 提示詞庫 — Google 旗艦生圖模型，10000+ 精選提示詞 👉 [awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
@@ -141,7 +141,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **176** |
 | ⭐ 精選 | **0** |
-| 🔄 最後更新 | **2026年4月20日 星期一 下午1:04:03 [UTC]** |
+| 🔄 最後更新 | **2026年4月20日 星期一 下午1:09:43 [UTC]** |
 
 </div>
 
@@ -6436,6 +6436,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-04-20T13:04:03.193Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-04-20T13:09:43.432Z</sub>
 
 </div>
